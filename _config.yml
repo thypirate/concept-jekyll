@@ -6,7 +6,6 @@ author: ""
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-coffeescript
 
 exclude:
   - LICENSE
